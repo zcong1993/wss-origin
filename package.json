@@ -1,6 +1,6 @@
 {
   "name": "wss-origin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "node ws server easy origin verify",
   "repository": {
     "url": "zcong1993/wss-origin",
