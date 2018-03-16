@@ -1,0 +1,39 @@
+{
+  "name": "wss-origin",
+  "version": "0.0.0",
+  "description": "ws server easy origin verify",
+  "repository": {
+    "url": "zcong1993/wss-origin",
+    "type": "git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "typings": "./index.d.ts",
+  "scripts": {
+    "test": "npm run lint && jest",
+    "lint": "xo"
+  },
+  "author": "zcong1993 <1005997919@qq.com>",
+  "license": "MIT",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "dependencies": {
+    "ws": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^22.2.0",
+    "debug": "^3.1.0",
+    "eslint-config-rem": "^3.0.0",
+    "jest-cli": "^22.1.4",
+    "xo": "^0.18.0"
+  },
+  "xo": {
+    "extends": "rem",
+    "envs": [
+      "jest"
+    ]
+  }
+}
