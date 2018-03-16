@@ -1,7 +1,7 @@
 {
   "name": "wss-origin",
   "version": "0.0.0",
-  "description": "ws server easy origin verify",
+  "description": "node ws server easy origin verify",
   "repository": {
     "url": "zcong1993/wss-origin",
     "type": "git"
