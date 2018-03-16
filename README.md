@@ -1,7 +1,7 @@
 
 # wss-origin
 
-[![NPM version](https://img.shields.io/npm/v/wss-origin.svg?style=flat)](https://npmjs.com/package/wss-origin) [![NPM downloads](https://img.shields.io/npm/dm/wss-origin.svg?style=flat)](https://npmjs.com/package/wss-origin) [![CircleCI](https://circleci.com/gh/zcong1993/wss-origin/tree/master.svg?style=shield)](https://circleci.com/gh/zcong1993/wss-origin/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/zcong1993/donate)
+[![NPM version](https://img.shields.io/npm/v/wss-origin.svg?style=flat)](https://npmjs.com/package/wss-origin) [![NPM downloads](https://img.shields.io/npm/dm/wss-origin.svg?style=flat)](https://npmjs.com/package/wss-origin) [![CircleCI](https://circleci.com/gh/zcong1993/wss-origin/tree/master.svg?style=shield)](https://circleci.com/gh/zcong1993/wss-origin/tree/master)
 
 ## Install
 
